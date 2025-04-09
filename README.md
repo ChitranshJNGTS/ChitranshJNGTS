@@ -1,27 +1,39 @@
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Chitransh Jawre</h1>
-<h3 align="center">A passionate Frontend Developer from India 🇮🇳</h3>
+<h3 align="center">Turning ideas into interactive UI | Aspiring CTO 🚀</h3>
 
-- 🌱 I’m currently working on **Learning Kids, Arsh Repro Health, Bet Games**
-- 🔭 I recently built a **Tesla web clone and Flipkart clone**
-- 💬 Ask me about **React, Redux, Tailwind CSS, AI Tools**
-- 📫 How to reach me: **chitranshjawre@gmail.com**
-- ⚡ Fun fact: I love building UIs with smooth animations and great UX
+<p align="center">
+  <img src="https://github.com/ChitranshJNGTS/ChitranshJNGTS/blob/main/banner.png" alt="banner" />
+</p>
 
 ---
 
-### 🛠️ Languages and Tools:
-<img src="https://skillicons.dev/icons?i=react,redux,tailwind,js,html,css,vscode,github" />
+### 👨‍💻 About Me:
+- 🌐 Checkout my portfolio: [My Portfolio](https://your-portfolio-link.com)
+- 🧠 Currently building: **Learning Kids App**, **Portfolio Website**
+- 🎨 Passionate about **UI/UX**, **React.js**, and creating **scalable front-end systems**
+- 🎯 Career Goal: **Become a VP of Engineering / CTO**
+
+---
+
+### 🛠️ Tech Stack & Tools:
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,js,react,next,mongodb,nodejs,npm,redux,express,tailwind,bootstrap,materialui,python,md,html,css,jquery,git,brave,prettier,githubactions,postman,heroku" alt="Tech Stack" />
+</p>
 
 ---
 
 
 
-### 🧠 My Recent Projects:
-- OnlineStore-fake
-- Tesla-web
-- O2-Bharat-clone-web
-- Multiple-user-login---Demo
-- Learning Kids
+### 📫 Connect with Me:
+- 📧 Email: your.email@example.com
+- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
+- 🌍 [Portfolio](https://your-portfolio-link.com)
 
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=I+build+interactive+UIs+with+React;I+love+frontend+engineering;Always+learning+something+new" />
+</p>
