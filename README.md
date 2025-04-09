@@ -16,10 +16,7 @@
 
 ---
 
-### 📈 GitHub Stats:
-![Chitransh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChitranshJNGTS&show_icons=true&theme=radical)
 
----
 
 ### 🧠 My Recent Projects:
 - OnlineStore-fake
