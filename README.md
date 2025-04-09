@@ -4,7 +4,7 @@
 <h3 align="center">Turning ideas into interactive UI | Aspiring CTO 🚀</h3>
 
 <p align="center">
-  <img src="https://github.com/ChitranshJNGTS/ChitranshJNGTS/blob/main/banner.png" alt="banner" />
+  <img src="[https://github.com/ChitranshJNGTS/ChitranshJNGTS/blob/main/banner.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fnext-js-vs-react-which-framework-do-you-opt-front-end-development-srmle&psig=AOvVaw30GiUdLJpkDEt8H7cYDCBd&ust=1744279639529000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIjrt-7ayowDFQAAAAAdAAAAABAE)" alt="banner" />
 </p>
 
 ---
