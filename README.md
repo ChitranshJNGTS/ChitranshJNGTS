@@ -17,8 +17,10 @@
   <div align="left">
     <ul>
       <li>🌐 All about me is at <a href="https://your-portfolio-link.com" target="_blank">My Portfolio</a></li>
-      <li>🔭 Currently working on: <strong>Learning Kids App</strong>, <strong>Portfolio Website</strong></li>
-      <li>💡 Passionate about <strong>UI/UX</strong>, <strong>React.js</strong>, and building <strong>scalable front-end systems</strong>.</li>
+      <li>🔭 Currently working on: <strong>Learning Kids App</strong>, 
+        <strong>Portfolio Website</strong></li>
+      <li>💡 Passionate about <strong>UI/UX</strong>, <strong>React.js</strong>,
+         and building <strong>scalable front-end systems</strong>.</li>
       <li>🎯 Career Goal: <strong>Become a VP of Engineering / CTO</strong></li>
     </ul>
   </div>
