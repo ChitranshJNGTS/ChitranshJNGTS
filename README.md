@@ -9,20 +9,22 @@
 
 ---
 
-### 👨‍💻 About Me:
-- 🌐 Checkout my portfolio: [My Portfolio](https://your-portfolio-link.com)
-- 🧠 Currently building: **Learning Kids App**, **Portfolio Website**
-- 🎨 Passionate about **UI/UX**, **React.js**, and creating **scalable front-end systems**
-- 🎯 Career Goal: **Become a VP of Engineering / CTO**
 
----
 
-### 👨‍💻 About Me:
+<h3 align="left">👨‍💻 About Me:</h3>
 
-- 🌐 All about me is at [My Portfolio](https://your-portfolio-link.com)
-- 🔭 Currently working on: **Learning Kids App**, **Portfolio Website**
-- 💡 Passionate about UI/UX, React.js, and building scalable front-end systems.
-- 🎯 Career Goal: **Become a VP of Engineering / CTO**
+<div align="center" style="display: flex; justify-content: space-between; align-items: center;">
+  <div align="left">
+    <ul>
+      <li>🌐 All about me is at <a href="https://your-portfolio-link.com" target="_blank">My Portfolio</a></li>
+      <li>🔭 Currently working on: <strong>Learning Kids App</strong>, <strong>Portfolio Website</strong></li>
+      <li>💡 Passionate about <strong>UI/UX</strong>, <strong>React.js</strong>, and building <strong>scalable front-end systems</strong>.</li>
+      <li>🎯 Career Goal: <strong>Become a VP of Engineering / CTO</strong></li>
+    </ul>
+  </div>
+
+  <img src="https://raw.githubusercontent.com/soumyajit4419/soumyajit4419/master/thoughtworks-gif_dribbble.gif" alt="coding gif" width="300" />
+</div>
 
   ---
 ### 🛠️ Languages and Tools:
