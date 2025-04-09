@@ -23,15 +23,13 @@
 - 🔭 Currently working on: **Learning Kids App**, **Portfolio Website**
 - 💡 Passionate about UI/UX, React.js, and building scalable front-end systems.
 - 🎯 Career Goal: **Become a VP of Engineering / CTO**
-- 🛠️ Tech Stack:  
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white) 
-  ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white) 
-  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-  ![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-319795?style=flat&logo=chakra-ui&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+  ---
+### 🛠️ Languages and Tools:
+<img src="https://skillicons.dev/icons?i=react,redux,tailwind,js,html,css,vscode,github" />
 
 ---
+
 
 
 
