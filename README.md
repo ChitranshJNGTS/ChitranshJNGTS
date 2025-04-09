@@ -1,16 +1,30 @@
 ## Hi there 👋
 
-<!--
-**ChitranshJNGTS/ChitranshJNGTS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Chitransh Jawre</h1>
+<h3 align="center">A passionate Frontend Developer from India 🇮🇳</h3>
 
-Here are some ideas to get you started:
+- 🌱 I’m currently working on **Learning Kids, Arsh Repro Health, Bet Games**
+- 🔭 I recently built a **Tesla web clone and Flipkart clone**
+- 💬 Ask me about **React, Redux, Tailwind CSS, AI Tools**
+- 📫 How to reach me: **chitranshjawre@gmail.com**
+- ⚡ Fun fact: I love building UIs with smooth animations and great UX
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Languages and Tools:
+<img src="https://skillicons.dev/icons?i=react,redux,tailwind,js,html,css,vscode,github" />
+
+---
+
+### 📈 GitHub Stats:
+![Chitransh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChitranshJNGTS&show_icons=true&theme=radical)
+
+---
+
+### 🧠 My Recent Projects:
+- OnlineStore-fake
+- Tesla-web
+- O2-Bharat-clone-web
+- Multiple-user-login---Demo
+- Learning Kids
+
