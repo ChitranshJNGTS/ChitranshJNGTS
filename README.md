@@ -16,12 +16,12 @@
 <div align="center" style="display: flex; justify-content: space-between; align-items: center;">
   <div align="left">
     <ul>
-      <li>🌐 All about me is at <a href="https://your-portfolio-link.com" target="_blank">My Portfolio</a></li>
+      <li>🌐 All about me is at <a href="https://chitranshj-portfolio.netlify.app/" target="_blank">My Portfolio</a></li>
       <li>🔭 Currently working on: <strong>Learning Kids App</strong>, 
         <strong>Portfolio Website</strong></li>
       <li>💡 Passionate about <strong>UI/UX</strong>, <strong>React.js</strong>,
          and building <strong>scalable front-end systems</strong>.</li>
-      <li>🎯 Career Goal: <strong>Become a VP of Engineering / CTO</strong></li>
+      <li>🎯 Career Goal: <strong>Become a VP of Engineering</strong></li>
     </ul>
   </div>
 
@@ -38,9 +38,9 @@
 
 
 ### 📫 Connect with Me:
-- 📧 Email: your.email@example.com
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- 🌍 [Portfolio](https://your-portfolio-link.com)
+- 📧 Email: chitranshjawre2001@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/chitransh-jawre-80338b332/e)
+- 🌍 [Portfolio]([https://your-portfolio-link.com](https://chitranshj-portfolio.netlify.app/))
 
 ---
 
